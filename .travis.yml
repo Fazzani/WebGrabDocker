@@ -1,0 +1,19 @@
+language: ruby
+sudo: required
+dist: trusty
+os:
+  - linux
+services:
+  - docker
+before_install:
+  - chmod +x travis-build.sh
+script: |
+  docker login -u=$DOCKER_USER -p=$DOCKER_PASS
+  docker build -t synker/webgraboneshot:${TRAVIS_BUILD_NUMBER} -t synker/webgraboneshot:latest .
+  docker push synker/webgraboneshot
+notifications: # set notification options
+  email:
+    recipients:
+      - tunisienheni@gmail.com
+    on_success: change
+    on_failure: change
