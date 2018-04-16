@@ -3,6 +3,7 @@ LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit)" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
 RUN chmod -R 777 /defaults
+RUN ls /defaults/ini/siteini.pack
 RUN cp /defaults/WebGrab++.config.xml /config/
 RUN cp -R /defaults/ini/siteini.pack /config/
 RUN ls /config/siteini.pack/International/
