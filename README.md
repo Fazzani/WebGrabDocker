@@ -4,7 +4,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/synker/webgraboneshot.svg)][hub]
 [![Docker Pulls](https://img.shields.io/docker/pulls/synker/webgraboneshot.svg)][hub]
 
->WebGrab++ docker run one shot (the container run one and exit)
+>WebGrab++ docker one shot run (the container run only once and exit)
 >[Docker image][hub]
 
 ## Example
