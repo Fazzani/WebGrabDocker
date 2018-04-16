@@ -14,10 +14,9 @@
 id $(whoami)
 docker run -it --rm -v "$(pwd)/test/config.xml:/config2/WebGrab++.config.xml" \
 -v "$(pwd):/data" synker/webgraboneshot:latest
+
+# create archive file from result
+tar zcvf guide.tar.gz guide.xml
 ```
-
-## TODO
-
-- [ ] Add a custom script at the end (for example a script that compress data, push it to github repo and notify the final user)
 
 [hub]:https://hub.docker.com/r/synker/webgraboneshot/
