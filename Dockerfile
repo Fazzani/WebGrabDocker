@@ -3,10 +3,9 @@ LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit)" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
 RUN chmod -R 777 /defaults
-RUN ["cp", "/defaults/WebGrab++.config.xml", "/config/"]
-RUN ["cp", "-R", "/defaults/ini/siteini.pack", "/config/"]
-RUN ["ls", "/config"]
-RUN ["ls", "/defaults/ini/siteini.pack"]
+COPY /defaults/WebGrab++.config.xml /config/
+COPY cp -R /defaults/ini/siteini.pack /config/
+RUN  ls /config
 RUN echo $'<settings> \n\
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \n\
     <filename>/data/guide.xml</filename> \n\
