@@ -2,6 +2,7 @@ FROM linuxserver/webgrabplus
 LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit)" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
+COPY execute.sh /defaults
 RUN chmod -R 777 /defaults
 RUN mkdir /config2 && chmod -R 777 /config2
 RUN ["cp", "/defaults/WebGrab++.config.xml", "/config2/"]
@@ -22,4 +23,4 @@ RUN echo $'<settings> \n\
 </settings>\n' > /config2/WebGrab++.config.xml 
 
 VOLUME /config2
-ENTRYPOINT [ "/defaults/update.sh" ]
+ENTRYPOINT [ "/defaults/execute.sh", "/config2" ]
