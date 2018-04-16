@@ -1,11 +1,11 @@
 # Webgrab++ Docker one shot
 
 [![Build Status](https://travis-ci.org/Fazzani/WebGrabDocker.svg?branch=master)](https://travis-ci.org/Fazzani/WebGrabDocker)
-[![Docker Stars](https://img.shields.io/docker/stars/linuxserver/webgrabplus.svg)][hub]
-[![Docker Pulls](https://img.shields.io/docker/pulls/linuxserver/webgrabplus.svg)][hub]
+[![Docker Stars](https://img.shields.io/docker/stars/synker/webgraboneshot.svg)][hub]
+[![Docker Pulls](https://img.shields.io/docker/pulls/synker/webgraboneshot.svg)][hub]
 
 >WebGrab++ docker run one shot (the container run one and exit)
->[Docker image][[hub]
+>[Docker image][hub]
 
 ## Example
 
@@ -16,4 +16,5 @@ docker run -it --rm -v test:/config -v test:/data -e PGID=197609 -e PUID=197609 
 ## TODO
 
 - [ ] Add a custom script at the end (for example a script that compress data, push it to github repo and notify the final user)
-[hub]: https://hub.docker.com/r/synker/webgraboneshot/
+
+[hub]:https://hub.docker.com/r/synker/webgraboneshot/
