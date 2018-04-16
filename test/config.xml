@@ -15,6 +15,6 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-    <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD2" xmltv_id="HD2">HD2</channel>
 </settings>
