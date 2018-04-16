@@ -18,5 +18,5 @@ RUN cat << "EOF"  > /config/WebGrab++.config.xml \
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel> \
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel> \
 </settings> \
-EOF \
+EOF 
 ENTRYPOINT [ "/defaults/update.sh" ]
