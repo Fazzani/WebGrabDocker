@@ -4,7 +4,7 @@ LABEL maintainer="synker-team@synker.ovh" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
 RUN chmod -R 777 /defaults
 COPY /defaults/WebGrab++.config.xml /config/
-COPY cp -R /defaults/ini/siteini.pack /config/
+COPY /defaults/ini/siteini.pack /config/
 RUN  ls /config
 RUN echo $'<settings> \n\
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \n\
