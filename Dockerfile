@@ -8,7 +8,6 @@ RUN mkdir /config2 && chmod -R 777 /config2
 RUN ["cp", "/defaults/WebGrab++.config.xml", "/config2/"]
 RUN ["cp", "-R", "/defaults/ini/siteini.pack", "/config2/"]
 RUN ["ls", "/config2"]
-
 RUN echo '<settings> \
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \
     <filename>/data/guide.xml</filename> \
@@ -24,4 +23,5 @@ RUN echo '<settings> \
 </settings>' > /config2/WebGrab++.config.xml 
 
 VOLUME /config2
-ENTRYPOINT [ "/defaults/run.sh", "/config2" ]
+ENTRYPOINT [ "/defaults/run.sh" ]
+CMD [ "/config2" ]
