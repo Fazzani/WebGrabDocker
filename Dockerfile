@@ -5,8 +5,8 @@ LABEL maintainer="synker-team@synker.ovh" \
 RUN chmod -R 777 /defaults
 RUN ["cp", "/defaults/WebGrab++.config.xml", "/config/"]
 RUN ["cp", "-R", "/defaults/ini/siteini.pack", "/config/"]
-RUN ls /config
-RUN cat << "EOF"  > /config/WebGrab++.config.xml \
+RUN ["ls", "/config"]
+RUN cat <<EOF > /config/WebGrab++.config.xml \
 <settings> \
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \
     <filename>/data/guide.xml</filename> \
