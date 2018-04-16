@@ -4,7 +4,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/synker/webgraboneshot.svg)][hub]
 [![Docker Pulls](https://img.shields.io/docker/pulls/synker/webgraboneshot.svg)][hub]
 
->WebGrab++ docker run one shot (the container run one and exit)
+>WebGrab++ docker one shot run (the container run only once and exit)
 >[Docker image][hub]
 
 ## Example
@@ -14,10 +14,9 @@
 id $(whoami)
 docker run -it --rm -v "$(pwd)/test/config.xml:/config2/WebGrab++.config.xml" \
 -v "$(pwd):/data" synker/webgraboneshot:latest
+
+# create archive file from result
+tar zcvf guide.tar.gz guide.xml
 ```
-
-## TODO
-
-- [ ] Add a custom script at the end (for example a script that compress data, push it to github repo and notify the final user)
 
 [hub]:https://hub.docker.com/r/synker/webgraboneshot/
