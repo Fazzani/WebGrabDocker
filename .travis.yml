@@ -10,7 +10,7 @@ services:
   - docker
 script: |
   docker login -u=$DOCKER_USER -p=$DOCKER_PASS
-  docker build -t "synker/webgraboneshot:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshot:latest .
+  docker build --no-cache=true -t "synker/webgraboneshot:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshot:latest .
   docker push synker/webgraboneshot
 notifications: # set notification options
   email:
