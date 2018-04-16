@@ -8,8 +8,8 @@ RUN mkdir /config2 && chmod -R 777 /config2
 RUN ["cp", "/defaults/WebGrab++.config.xml", "/config2/"]
 RUN ["cp", "-R", "/defaults/ini/siteini.pack", "/config2/"]
 RUN ["ls", "/config2"]
-RUN cat << "EOF"  > /config2/WebGrab++.config.xml \
-<settings> \
+
+RUN echo '<settings> \
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \
     <filename>/data/guide.xml</filename> \
     <mode>m</mode> \
@@ -21,7 +21,7 @@ RUN cat << "EOF"  > /config2/WebGrab++.config.xml \
     <update>i</update> \
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel> \
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel> \
-</settings> \
-EOF 
+</settings>' > /config2/WebGrab++.config.xml 
+
 VOLUME /config2
 ENTRYPOINT [ "/defaults/run.sh", "/config2" ]
