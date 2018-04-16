@@ -10,7 +10,9 @@
 ## Example
 
 ```sh
-docker run -it --rm -v test:/config -v test:/data -e PGID=197609 -e PUID=197609 synker/webgraboneshot:latest
+# Get PGID and PUID
+id $(whoami)
+docker run -it --rm -v "$(pwd)/test/config.xml:/config/WebGrab++.config.xml" -v test:/data -e PGID=197609 -e PUID=197609 synker/webgraboneshot:latest
 ```
 
 ## TODO
