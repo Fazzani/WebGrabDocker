@@ -1,8 +1,8 @@
 # Webgrab++ Docker one shot
 
 [![Build Status](https://travis-ci.org/Fazzani/WebGrabDocker.svg?branch=master)](https://travis-ci.org/Fazzani/WebGrabDocker)
-[![Docker Stars](https://img.shields.io/docker/stars/linuxserver/webgrabplus.svg)][hub]
-[![Docker Pulls](https://img.shields.io/docker/pulls/linuxserver/webgrabplus.svg)][hub]
+[![Docker Stars](https://img.shields.io/docker/stars/synker/webgraboneshot.svg)][hub]
+[![Docker Pulls](https://img.shields.io/docker/pulls/synker/webgraboneshot.svg)][hub]
 
 >WebGrab++ docker run one shot (the container run one and exit)
 >[Docker image][hub]
