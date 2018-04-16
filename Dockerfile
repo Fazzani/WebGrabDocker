@@ -3,10 +3,10 @@ LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit)" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
 RUN chmod -R 777 /defaults
-RUN chmod -R 777 /config
-RUN ["cp", "/defaults/WebGrab++.config.xml", "/config/"]
-RUN ["cp", "-R", "/defaults/ini/siteini.pack", "/config/"]
-RUN ["ls", "/config"]
+RUN mkdir /config2 && chmod -R 777 /config2
+RUN ["cp", "/defaults/WebGrab++.config.xml", "/config2/"]
+RUN ["cp", "-R", "/defaults/ini/siteini.pack", "/config2/"]
+RUN ["ls", "/config2"]
 RUN echo $'<settings> \n\
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \n\
     <filename>/data/guide.xml</filename> \n\
@@ -19,6 +19,7 @@ RUN echo $'<settings> \n\
     <update>i</update> \n\
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel> \n\
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel> \n\
-</settings>\n' > /config/WebGrab++.config.xml 
+</settings>\n' > /config2/WebGrab++.config.xml 
 
+VOLUME /config2
 ENTRYPOINT [ "/defaults/update.sh" ]
