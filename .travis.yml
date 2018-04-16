@@ -3,6 +3,9 @@ sudo: required
 dist: trusty
 os:
   - linux
+branches:
+  only:
+    - master
 services:
   - docker
 script: |
