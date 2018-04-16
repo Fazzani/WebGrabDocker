@@ -2,10 +2,10 @@ FROM linuxserver/webgrabplus
 LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit)" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
-RUN chmod -R 777 /defaults && ls /defaults/ini/
+RUN chmod -R 777 /defaults
 RUN cp /defaults/WebGrab++.config.xml /config/
 RUN cp -R /defaults/ini/siteini.pack /config/
-RUN ls /config/
+RUN ls /config
 RUN cat << "EOF"  > /config/WebGrab++.config.xml \
 <settings> \
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> \
