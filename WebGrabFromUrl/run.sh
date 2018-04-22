@@ -1,9 +1,8 @@
 #!/bin/bash
-
+set -e
 cd /app/wg++/bin || exit
-curl ${WEBGRAB_CONFIG_URL} --silent  --output /config2/WebGrab++.config.xml
+curl -fsSL ${WEBGRAB_CONFIG_URL} --output /config2/WebGrab++.config.xml || echo -e "Error while fetching webgrab config file"
 if [[ DEBUG=1 ]]; then 
-  set -eoux
   ls /config2 && cat /config2/WebGrab++.config.xml 
 fi
 mono WebGrab+Plus.exe  $1
