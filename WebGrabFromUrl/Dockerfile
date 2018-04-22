@@ -1,5 +1,5 @@
 FROM linuxserver/webgrabplus
-ENV WEBGRAB_CONFIG_URL https://raw.githubusercontent.com/Fazzani/xmltv/master/default.xmltv
+ENV WEBGRAB_CONFIG_URL https://raw.githubusercontent.com/Fazzani/xmltv/master/default.xml
 LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit). Volumes was replaced by url. So WebGrab++.config.xml will have Url as source." \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker++url"
