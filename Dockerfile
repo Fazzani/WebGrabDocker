@@ -2,6 +2,7 @@ FROM linuxserver/webgrabplus
 LABEL maintainer="synker-team@synker.ovh" \
       description="WebGrab++ docker run one shot (the container run one and exit)" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
+VOLUME ["/config2","/data"]
 COPY run.sh /defaults
 RUN chmod -R 777 /defaults
 RUN mkdir /config2 && chmod -R 777 /config2
@@ -21,6 +22,5 @@ RUN echo '<settings> \
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel> \
 </settings>' > /config2/WebGrab++.config.xml 
 
-VOLUME /config2
 ENTRYPOINT [ "/defaults/run.sh" ]
 CMD [ "/config2" ]
