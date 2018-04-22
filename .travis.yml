@@ -12,6 +12,10 @@ script: |
   docker login -u=$DOCKER_USER -p=$DOCKER_PASS
   docker build --no-cache=true -t "synker/webgraboneshot:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshot:latest .
   docker push synker/webgraboneshot
+  cd WebGrabFromUrl
+  docker build --no-cache=true -t "synker/webgraboneshoturl:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshoturl:latest .
+  docker push synker/webgraboneshoturl
+
 notifications: # set notification options
   email:
     recipients:
