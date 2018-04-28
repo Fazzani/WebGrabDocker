@@ -8,7 +8,7 @@ VOLUME /data
 VOLUME /config2
 COPY run.sh /defaults
 RUN chmod -R 777 /defaults
-RUN mkdir /config2 && chmod -R 777 /config2
+RUN chmod -R 777 /config2
 RUN cp -R /defaults/ini/siteini.pack /config2/
 ENTRYPOINT [ "/defaults/run.sh" ]
 CMD [ "/config2" ]
