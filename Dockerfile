@@ -4,6 +4,7 @@ LABEL maintainer="synker-team@synker.ovh" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
 VOLUME ["/config2","/data"]
 COPY run.sh /defaults
+COPY updateChannels.sh /defaults
 RUN chmod -R 777 /defaults
 RUN mkdir /config2 && chmod -R 777 /config2
 RUN cp /defaults/WebGrab++.config.xml /config2/
@@ -20,7 +21,7 @@ RUN echo '<settings> \
     <update>i</update> \
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel> \
     <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel> \
-</settings>' > /config2/WebGrab++.config.xml 
+</settings>' > /config2/WebGrab++.config.xml
 
 ENTRYPOINT [ "/defaults/run.sh" ]
 CMD [ "/config2" ]
