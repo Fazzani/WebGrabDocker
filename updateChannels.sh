@@ -1,8 +1,11 @@
 #!/bin/bash
 
-git config --global user.email "tunisienheni@gmail.com" && git config --global user.name "Fazzani"
+git config --global credential.helper store && \
+git config --global user.email "tunisienheni@gmail.com" && \
+git config --global user.name "Fazzani" && \
+git config --global push.default simple
 
-git clone "https://${PAT}@github.com/Fazzani/webgrabplus-siteinipack.git" /siteinipack && \
+git clone "https://Fazzani:${PAT}@github.com/Fazzani/webgrabplus-siteinipack.git" /siteinipack && \
 
 find /config/siteini.pack -iname "*.ini" | while read i
 do
@@ -15,9 +18,8 @@ chmod +x /defaults/update.sh && /defaults/update.sh
 for i in /config/*.channels.xml;
 do
  file=${i/\/config\//}
- echo "Searching for => $file"
- diff -iBbq $i /config/siteini.pack/International/bein.net.channels.xml && continue
- mv $i $(find /siteinipack/siteini.pack/ -iname $file -print)
+ echo "Searching for => $file $(find /siteinipack/siteini.pack/ -iname $file -print)"
+ mv $i "$(find /siteinipack/siteini.pack/ -iname $file -print)"
 done
 
 cd /siteinipack && git status

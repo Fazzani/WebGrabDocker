@@ -8,3 +8,4 @@ RUN apt update -y && apt install -yy nano git
 COPY updateChannels.sh /defaults
 RUN chmod -R 777 /defaults && chmod -R +x /defaults/*.sh
 ENTRYPOINT [ "/defaults/update.sh" ]
+CMD ["/config"]
