@@ -6,6 +6,7 @@ VOLUME ["/config2","/data"]
 RUN apt update -y && apt install -yy nano git
 COPY run.sh /defaults
 COPY updateChannels.sh /defaults
+ENV PAT xxxxx
 RUN chmod -R 777 /defaults && chmod -R +x /defaults/*.sh
 RUN mkdir /config2 && chmod -R 777 /config2
 RUN cp /defaults/WebGrab++.config.xml /config2/
