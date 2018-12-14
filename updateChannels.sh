@@ -2,7 +2,7 @@
 
 git config --global user.email "tunisienheni@gmail.com" && git config --global user.name "Fazzani"
 
-git clone https://f8b33ec2cc47d37e7d7f5beb66f6c28cf1e10175@github.com/Fazzani/webgrabplus-siteinipack.git /siteinipack && \
+git clone "https://${PAT}@github.com/Fazzani/webgrabplus-siteinipack.git" /siteinipack && \
 
 find /config/siteini.pack -iname "*.ini" | while read i
 do
