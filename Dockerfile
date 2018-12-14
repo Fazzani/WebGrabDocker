@@ -7,5 +7,6 @@ ENV PAT xxxxx
 RUN apt update -y && apt install -yy nano git
 COPY updateChannels.sh /defaults
 RUN chmod -R 777 /defaults && chmod -R +x /defaults/*.sh
+RUN mkdir /config/siteini.pack &&  cp -rf /defaults/ini/siteini.pack/ /config/
 ENTRYPOINT [ "/defaults/update.sh" ]
 CMD ["/config"]
