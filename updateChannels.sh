@@ -10,6 +10,8 @@ git config --global push.default simple
 git clone "https://Fazzani:${PAT}@github.com/Fazzani/webgrabplus-siteinipack.git" /siteinipack && \
 curl -o "/config/WebGrab++.config.xml" $WEBGRAB_URL
 
+cp -rf /defaults/ini/siteini.pack/ /config/
+
 find /config/siteini.pack -iname "*.ini" | while read i
 do
   echo "Generating webgrab for updating channels.xml files => $i"
