@@ -7,6 +7,7 @@ ENV PAT xxxxx
 ENV WEBGRAB_URL https://gist.githubusercontent.com/Fazzani/cce67905b458bae3eb5818adeffd2510/raw/WebGrab++.config.xml
 RUN apt update -y && apt install -yy nano git
 COPY updateChannels.sh /defaults
+COPY run.sh /defaults
 RUN chmod -R 777 /defaults && chmod -R +x /defaults/*.sh
-ENTRYPOINT [ "/defaults/update.sh" ]
+ENTRYPOINT [ "/defaults/run.sh" ]
 CMD ["/config"]
