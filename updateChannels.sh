@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 git config --global credential.helper store && \
 git config --global user.email "tunisienheni@gmail.com" && \
 git config --global user.name "Fazzani" && \
