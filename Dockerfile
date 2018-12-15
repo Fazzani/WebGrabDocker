@@ -8,6 +8,6 @@ ENV WEBGRAB_URL https://gist.githubusercontent.com/Fazzani/cce67905b458bae3eb581
 RUN apt update -y && apt install -yy nano git
 COPY updateChannels.sh /defaults
 RUN chmod -R 777 /defaults && chmod -R +x /defaults/*.sh
-RUN mkdir /config/siteini.pack &&  cp -rf /defaults/ini/siteini.pack/ /config/
+RUN cp -rf /defaults/ini/siteini.pack/ /config/
 ENTRYPOINT [ "/defaults/update.sh" ]
 CMD ["/config"]
