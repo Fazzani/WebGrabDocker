@@ -1,6 +1,9 @@
-language: ruby
+language: generic
 sudo: required
-dist: trusty
+install: skip
+cache: false
+git:
+  depth: false
 os:
   - linux
 branches:
