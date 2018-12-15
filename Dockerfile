@@ -4,6 +4,7 @@ LABEL maintainer="synker-team@synker.ovh" \
       system.dist="linux" system.arch="$arch" multi.name="WebGrab++docker"
 VOLUME ["/config","/data"]
 ENV PAT xxxxx
+ENV WEBGRAB_URL https://gist.githubusercontent.com/Fazzani/cce67905b458bae3eb5818adeffd2510/raw/4ebb0c0370d0963e3eed91d3431ae9cd28dce276/WebGrab++.config.xml
 RUN apt update -y && apt install -yy nano git
 COPY updateChannels.sh /defaults
 RUN chmod -R 777 /defaults && chmod -R +x /defaults/*.sh
