@@ -42,3 +42,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 guide*
+/data/*
+/config/.mono
+/config/robots
+/config/siteini.pack
+/config/.bash_history
+/config/*.txt
