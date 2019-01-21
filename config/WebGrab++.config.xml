@@ -1,20 +1,15 @@
 <settings>
-    <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-    <filename>/data/guide.xml</filename>
-    <mode>m</mode>
-    <postprocess grab="y" run="n">mdb</postprocess>
-    <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
-    <logging>on</logging>
-    <retry time-out="5">4</retry>
-    <timespan>8</timespan>
-    <update>i</update>
-    <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-    <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">HD1</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/HD2" xmltv_id="HD2">HD2</channel>
+   <filename>/data/ar_bein2.xmltv</filename>
+<mode>d</mode>
+<postprocess run="n" grab="y">mdb</postprocess>
+<proxy>automatic</proxy>
+<user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+<logging>on</logging>
+<retry time-out="15">1</retry>
+<skip>12</skip>
+<timespan>1</timespan>
+<update>i</update>
+   <channel update="i" site="elcinema.ar.com" site_id="1128" xmltv_id="إم بي سي 2">إم بي سي 2</channel>
+   <channel update="i" site="elcinema.en.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel>
+   <channel update="i" site="elcinema.en.com" site_id="1193" xmltv_id="Al Nahar TV">Al Nahar TV</channel>
 </settings>

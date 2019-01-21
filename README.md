@@ -13,7 +13,12 @@
 # Get PGID and PUID
 id $(whoami)
 
-docker run -it --rm -v "${PWD}/WebGrab++.config.xml:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
+# build new image
+
+docker build -t synker/webgraboneshot:latest .
+
+# running a test
+ docker run -it --rm -v "${PWD}/config:/config" -v "${PWD}:/data" -e "DEBUG=true" synker/webgraboneshot:latest
 
 # create archive file from result
 tar zcvf guide.tar.gz guide.xml
