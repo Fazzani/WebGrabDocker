@@ -1,0 +1,1805 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="إم بي سي 2">
+    <display-name lang="ar">إم بي سي 2</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="MBC 2">
+    <display-name lang="en">MBC 2</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <channel id="Al Nahar TV">
+    <display-name lang="en">Al Nahar TV</display-name>
+    <url>http://www.elcinema.en.com</url>
+  </channel>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Notorious</title>
+    <desc lang="ar">في حي بروكلين الفقير في نيويورك ينشأ الشاب (كريستوفر والاس)، يبيع المخدرات مع أصدقائه حتى يوفر احتياجات ابنه القادم، مما يجعل والدته تقوم بطرده من منزلها، ثم تقوم الشرطة بالقبض عليه، بعد خروجه من السجن يدخل في عدة مسابقات لغناء الراب والهيب هوب، يفوز فيها، ويبدأ في التفكير بامتهان غناء الهيب هوب بدلا من تجارة المخدرات.(n)</desc>
+    <date>2009</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fc05ed720814aa7e274a6141f8281403cad669c7026270f9f291829eb531b83b.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Before I Go to Sleep</title>
+    <desc lang="ar">(كريستين لوكاس) امرأة تبلغ من العمر أربعون عامًا، تستيقظ كل يوم وهى لا تتذكر على اﻹطلاق ما حدث في اليوم السابق نتيجة لصدمة حدثت لها بعد تعرضها لحادث سيارة منذ عشر سنوات وأدت إلى تلف في أعصاب المخ، ويومًا ما تبدأ حقائق مرعبة في الظهور مما يجعل كريستين تحاول البحث عن تفسيرات وإجابات لها عند كل من حولها، خاصة بعد استشارتها للطبيب ناش الذي يحاول مساعدتها. After suffering a traumatic accident, a woman loses her short-term memory and wakes up every day remembering nothing. But one day, new terrifying truths emerge that make her put everything around her under question.(n)</desc>
+    <credits>
+      <director>روان جوفي</director>
+      <actor>نيكول كيدمان</actor>
+      <actor>كولين فيرث</actor>
+      <actor>مارك سترونج</actor>
+      <actor>آن-ماري داف</actor>
+      <actor>جينغ لوسي</actor>
+      <actor>تشارلي جاردنر</actor>
+      <writer>اس جيه واتسون</writer>
+      <writer>روان جوفي</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﻋﺐ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_edd3232020e1541c40687523add4500378895fd233f65b98010f5da39b79ff5a.jpg" />
+    <rating system="EG">
+      <value>5.7</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">The Expendables 3</title>
+    <desc lang="ar">في جو من الحركة والتشويق، يرصد الفيلم عمليات فرقة المرتزقة بقيادة بارني روس (سيلفيستر ستالون)، حيث يجد بارني روس نفسه وجهًا لوجه ضد كونراد ستون بانكس (ميل جيبسون). كونراد كان أحد أعضاء الفرقة في الماضي، لكنه خانها فقام بارني بقتله. يكتشف بارني بالصدفة أن كونراد لا يزال حيا، وأنه قد أصبح أحد عتاة اﻹجرام في العالم، فيقوم بتجنيد جيلًا جديدًا للفرقة أصغر سنًا من أجل مساندة ومساعدة الفرقة في القضاء على عدوها اللدود. Barney (Stallone), Christmas (Statham) and the rest of the team comes face-to-face with Conrad Stonebanks (Gibson), who years ago co-founded The Expendables with Barney. Stonebanks subsequently became a ruthless arms trader and someone who Barney was forced to kill... or so he thought. Stonebanks, who eluded death once before, now is making it his mission to end The Expendables -- but Barney has other plans.(n)</desc>
+    <credits>
+      <director>باتريك هيوز</director>
+      <actor>سيلفستر ستالون</actor>
+      <actor>جيسون ستاثام</actor>
+      <actor>جيت لي</actor>
+      <actor>دولف لاندجرين</actor>
+      <actor>تيري كروز</actor>
+      <actor>راندي كوترو</actor>
+      <writer>ديف كاﻻهام</writer>
+      <writer>كاترين بنديكيت</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8d5d283d69d6832cee635bc30a3ca292c3cb4ce81f9896a4695f6ac0d3734ee8.jpg" />
+    <rating system="EG">
+      <value>7.4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Hollywood Homicide</title>
+    <desc lang="ar">اثنين من مخبرين شرطة لوس انجلوس يحققون في مقتل مجموعة الراب.(n)</desc>
+    <credits>
+      <director>رون شيلتون</director>
+      <actor>لينا أولين</actor>
+      <actor>جوش هارتنت</actor>
+      <actor>هاريسون فورد</actor>
+      <actor>إلوي كاسادوس</actor>
+      <writer>رون شيلتون</writer>
+      <writer>روبرت سوزا</writer>
+    </credits>
+    <date>2003</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_e1d63593d66264321dbefb42dd51584ccdd493a4e0495c4777c2d9596aa863d1.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">See No Evil, Hear No Evil</title>
+    <desc lang="ar">في إطار درامي ممزوج ببعض الإثارة والتشويق تدور أحداث الفلم ، حيث تقع جريمة قتل يشهدها رجلان فقط لا غير ، أحدهما أصم (ديف) ، والآخر أعمى (والي) ، فأحدهما قد سمع صوت القاتل دون أن يراه ، والآخر قد رآه ، ولا يملك القدرة على الكلام ، ولم يسمعه ، والشرطة لا ترى أن شهادتهما تلك ذات فائدة قوية ، ولكن القاتل لديه رأي آخر في خطورتها عليه.(n)</desc>
+    <credits>
+      <actor>كيفين سبيسي</actor>
+      <actor>جيني وايلدر</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Listen to Your Heart</title>
+    <desc lang="ar">شاب يعمل ككاتب وعازف للموسيقى، يقع في حب فتاةً لا تستطيع سماع الموسيقى.. لكنه يجد من حبها هذا إلهامًا له كي يكتب أفضل ما كتبه يومًا في عالم الموسيقى الخاص به.(n)</desc>
+    <credits>
+      <director>مات ثومبسون</director>
+      <actor>ألكسيا راسموسن</actor>
+      <actor>كينت موران</actor>
+      <actor>سيبيل شيفرد</actor>
+      <actor>شيرلي نايت</actor>
+      <actor>إرني سابيلا</actor>
+      <actor>فرانك واتسون</actor>
+      <writer>كينت موران</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">اﺳﺘﻌﺮاﺿﻲ</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_558716b51252a3f2999eafddfe53461f08a9ebd298e5a47fb225832211be7df0.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Celebrity Scoop</title>
+    <desc lang="ar">برنامج يتناول الحياة الشخصية لمشاهير هوليود وأسرارهم الدفينة.(n)</desc>
+    <date>2013</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_832992927ef873f35032846d53d42cee7731ca17d6309beba1059eea410edf0e.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Drive</title>
+    <desc lang="ar">يعمل السائق (ريان جوسلينج) الماهر في قيادة السيارات كومبارس ، حيث يتولى القيادة بدلا من أبطال الفلم في المطاردات الخطيرة أثناء التصوير ، إضافة إلى عمله ميكانيكيا في الورشة التي يمتلكها شانون (بريان كرانستون) ، وغير ذلك يعمل على مساعدة السارقين في عملية الفرار من الشرطة بعد إتمام مهامهم . وفي إحدى الليالي يتعرف على جارته إيرين (كاري موليجان) ، ويقع في حبها ، ويتبادلان الإعجاب ، لكنها تتزوج من آخر وتتركه ، وبعد فترة من الوقت يفاجأ بأنها وحيدة بعد موت زوجها ، فيسعى إلى مساعدتها ليضمن لها حياة كريمة وآمنة. After a robbery does not go as planned, a price is put on the head of the enigmatic driver, Hollywood film stunt driver, motor-mechanic and sometime getaway man. He is a man who prefers to keep himself to himself but an unexpected attraction to a neighbor gets him involved in a situation that is rolling desperately out of control.(n)</desc>
+    <credits>
+      <director>نيكولاس ويندينج ريفن</director>
+      <actor>ريان جوسلينج</actor>
+      <actor>بريان كرانستون</actor>
+      <actor>كاري موليجان</actor>
+      <actor>ألبرت بروكس</actor>
+      <actor>أوسكار إيزاك</actor>
+      <actor>كريستينا هندريكس</actor>
+      <writer>حسين أميني</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d0e7feb489b821d367fead4cab6fdd26372912395af56eae422785e8b66484a6.jpg" />
+    <rating system="EG">
+      <value>6.4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Enemy</title>
+    <desc lang="ar">يرصد الفيلم قصة آدم بيل أو أنطوني سانت كلير (جاك جيلنهيل) من خلال حفنة من المشاهد والأحداث. حيث مدرس جامعي يُدعى آدم بيل (جاك جيلنهيل) بعد يوم طويل يذهب آدم لبيته حيث صديقته ماري (ميلاني لورينت). ينصحه أصدقاءه بمشاهدة فيلم جميل وفي الفيلم يرى رجل يشبهه تماماً. على الجانب الآخر يبدأ الشك يساور امرأة حامل بأن زوجها يخونها، وأم تغمرها السعادة بأن ابنها أنطوني سانت كلير (جاك جيلنهيل) لم يعد ممثلًا من الدرجة الثالثة. Adam Bell is a glum, disheveled history professor, who seems disinterested even in his beautiful girlfriend, Mary. Watching a movie on the recommendation of a colleague, Adam spots his double, a bit-part actor named Anthony Clair, and decides to track him down.(n)</desc>
+    <credits>
+      <director>دينيس فيلنوف</director>
+      <actor>جيك جيلنهال</actor>
+      <actor>جوشوا بيس</actor>
+      <actor>جين موفات</actor>
+      <actor>إيزابيلا روسيليني</actor>
+      <actor>ميلاني لوران</actor>
+      <actor>سارة جادون</actor>
+      <writer>جافير جولون</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9276763981585c4c3e2216f9ffd68902b1775e9b6dd8d10465330dd6a606e5d6.jpg" />
+    <rating system="EG">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <desc lang="ar">برنامج يومي يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
+    <credits>
+      <director>ألفريد ماسيني</director>
+      <actor>ماري هارت</actor>
+      <actor>مارك ستينيز</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bf3b77e869deb68df9b77779f6f118f6288c5cb5eb468dc6a0b56db4226a892.jpg" />
+    <rating system="EG">
+      <value>6.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Push</title>
+    <desc lang="ar">مجموعة من الاشخاص يمتلكون قدرات خارقة يبحثون عن فتاة لديها قدرة خاصة لكى يحموها من منظمة حكومية تسعى لقتلها.(n)</desc>
+    <credits>
+      <actor>بول ماكجيجان</actor>
+      <actor>داكوتا فانينج</actor>
+      <actor>كريس إيفانز</actor>
+      <actor>ماجي سف</actor>
+      <actor>كليف كورتيس</actor>
+      <actor>مينج-نا</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_16e9016c7e83bbe38300b083ebc21fc3ae1fb60336251d32b271397d1e0256a3.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Automata</title>
+    <desc lang="ar">من خلال أفلام المستقبل البعيد والخيال العلمي، تدور الأحداث حول (جاك فوكان) وهو مندوب تأمينات لشركة (روك) للروبوتات (الأشخاص الآليين)، يقوم بالتحقيق في حالة روبوتات تخالف البروتوكولات الأساسية التي تم برمجتها بها، وتقوم بإصلاح نفسها بنفسها، وما يكتشفه سوف يكون له تأثير خطير على مستقبل البشرية. An insurance agent of a robotics corporation investigates cases of robots violating their protocols against altering themselves. What he discovers will have unexpected consequences on the future of mankind.(n)</desc>
+    <credits>
+      <director>جابي إيبانيز</director>
+      <actor>زاكارياس إم. دي لا ريفا</actor>
+      <actor>أنطونيو بانديراس</actor>
+      <actor>ميلاني جريفيث</actor>
+      <actor>ديلان ماكديرموت</actor>
+      <actor>روبرت فورستر</actor>
+      <actor>بريجيت هوجرت سورينسن</actor>
+      <writer>جابي إيبانيز</writer>
+      <writer>خافيير سانشيز دوناتي</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3b74282c9a199c50ad14c86f4ddf5f5bd376baf59c6de6ef1e9d9f230ccd34f8.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">TRON: Legacy</title>
+    <desc lang="ar">تدور أحداث الفيلم داخل نظام الكمبيوتر ENCOM ، حيث يقوم برنامج للألعاب الإلكترونية صممه "فلين كيفن" أثناء اللعبة بتحدي برنامج المراقبة الرئيسي مما يتسبب في فوضى ودمار في أنحاء الشبكة التي تقوم في إطار فانتازي بسحب مصممها إلى الداخل ليتحول إلى شخصية إلكترونية داخل صراع محتوم يودي إلى الموت بينما يحاول ابنه "شون فلين" البحث عن والده ليكتشف أن البرنامج صنع حالة من الفوضى في النظام فيقرر هو الأخر الدخول لإنقاذه. This picture is a science fiction film and is a sequel to the 1982 film “Tron”. The title marks Joseph Kosinski’s feature film directorial debut while “Tron” director Steven Lisberger returns as a producer. The film features the performances of Micheal Sheen, Olivia Wilde and Beau Garrett among others. Jeff Bridges and Bruce Boxleitner retain their previous roles from “Tron”. Sam Flynn is determined to find out the causes behind the puzzling disappearance of his father. He manages to track down a signal from his father that leads him to an abandoned arcade. Therein, Flynn finds his father trapped in a sort of digital world. Marooned in a world populated with unfamiliar vehicles, weapons and backdrops, Sam and his father must find a way out of the bizarre realm. They are aided in their efforts by Quorra (Olivia Wilde), a ruthless warrior.(n)</desc>
+    <credits>
+      <director>جوزيف كوزينيسكي</director>
+      <actor>مايكل شين</actor>
+      <actor>أوليفيا وايلد</actor>
+      <actor>جيف بريدجيز</actor>
+      <actor>جاريت هيدلوند</actor>
+      <actor>جيمس فراين</actor>
+      <actor>بو جاريت</actor>
+      <writer>آدم هورويتز</writer>
+      <writer>إدوارد كيتسيس</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2ea92375cfc83362f21a7e86c108cbe6888bb61d1f19522afcc98afe41e35e4.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Action Zone</title>
+    <desc lang="ar">يقدم البرنامج أحدث الافلام، والمشاهد التي حيرت الجماهير في الأفلام.(n)</desc>
+    <date>2010</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_cbb353ab7ae871e807c560d5615936eff7aeb880be2d98530a75ba983a37f6be.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">X-Men: Days of Future Past</title>
+    <desc lang="ar">يضطر الرجال (إكس) إلى السفر عبر الزمن إلى الماضي ليحاولوا تغيير حدثٍ تاريخي مهم وعظيم للغاية، من الممكن أن يؤثر بالسلب على مستقبل الجنس البشري، وأيضًا على مستقبل ذوي الطفرات الجينية المعروفين بالرجال (إكس). The characters from the original X-Men film trilogy join forces with their younger selves from X-Men: First Class in a battle that must change the past; to save their future.(n)</desc>
+    <credits>
+      <director>براين سينجر</director>
+      <actor>جيمس مكافوي</actor>
+      <actor>مايكل فاسبندر</actor>
+      <actor>جنيفر لورانس</actor>
+      <actor>باتريك ستيوارت</actor>
+      <actor>إيان ماكلين</actor>
+      <actor>هيو جاكمان</actor>
+      <writer>براين سينجر</writer>
+      <writer>سايمون كينبيرج</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4112bdbdb88960b1b03b38c80f9667aa1380172ef825bd7c4c3ae0c0bf5ce7e6.jpg" />
+    <rating system="EG">
+      <value>8.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <desc lang="ar">برنامج يومي يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
+    <credits>
+      <director>ألفريد ماسيني</director>
+      <actor>ماري هارت</actor>
+      <actor>مارك ستينيز</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bf3b77e869deb68df9b77779f6f118f6288c5cb5eb468dc6a0b56db4226a892.jpg" />
+    <rating system="EG">
+      <value>6.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Predators</title>
+    <desc lang="ar">رويسي جندي المرتزقة يقود جماعة من المحاربين الأشداء الذين يجدون أنفسهم في كوكب غريب، ويكتشفون أنه تم إحضارهم إلى هذا الكوكب كي يشاركوا في عملية صيد هائلة بين المجرات سيلعبون فيها دور الفريسة. This title is a science fiction action film that was directed by Nimrod Antal. The movie stars Adrian Brody and Laurence Fishburne among others and it is the third film in the “Predator” franchise. Royce (Adrian Brody) is a mercenary who regains consciousness to find himself parachuting into an unknown jungle. Once on the ground he links up with others who seem to have arrived there by the same means. Everyone in the group, with the notable exception of a doctor, seem to come from dark backgrounds. There is a drug cartel enforcer, a Sptsnaz soldier, a death row inmate and a Yakuza man to name only a few – not to mention Royce, who is himself a mercenary as mentioned earlier. As the film progresses, the group learn that they are in fact on an alien planet. That’s not the worst part though – they also learn that they are being hunted by an alien race known as the “Predators”.(n)</desc>
+    <credits>
+      <director>نيمرود انتال</director>
+      <actor>أدريان برودي</actor>
+      <actor>لورنس فيشبورن</actor>
+      <actor>داني تريجو</actor>
+      <actor>توفر جريس</actor>
+      <actor>أليس براغا</actor>
+      <actor>والتون جوجينز</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d9cd869ccd09ca60a1467f173c1e42e855f6cbe24809572593d5d2bd131e6382.jpg" />
+    <rating system="EG">
+      <value>6.6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Straight Outta Compton</title>
+    <desc lang="ar">يعود الفيلم بالزمن إلى عام 1987، منطلقًا من منطقة كومبتون الفقيرة في مدينة لوس انجلوس، حيث يقرر خمسة شباب أمريكيين من أصول أفريقية وهم آيس كيوب ودكتور دري وإيزي إيه وإم سي رين ودي جي يلا أن يشكلوا فريقًا موسيقيًا متخصصًا في موسيقى الراب، مطلقين عليه اسم NWA، وتحدث أغاني الفريق ثورة كبيرة في الثقافة الأمريكية. The film tells the story of the NWA musical group emergent from the poor streets of Compton in Los Angeles. In 1987, five African-American young men revolutionize the Hip hop music by telling their stories and the stories of their neighborhood.(n)</desc>
+    <credits>
+      <director>إف. جاري جراي</director>
+      <actor>كوري هوكينز</actor>
+      <actor>أويشا جاكسون جونيور</actor>
+      <actor>بول جياماتي</actor>
+      <actor>جيسون ميتشيل</actor>
+      <actor>نيل براون جونيور</actor>
+      <actor>ألديز هودج</actor>
+      <writer>إس لي سافيدج</writer>
+      <writer>اﻵن وينكوس</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺳﻴﺮﺓ ﺫاﺗﻴﺔ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">اﺳﺘﻌﺮاﺿﻲ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8f068cbb90803caeaa74efa6eb70a432b88c2e08eeaaa3f27306a5cc4cd0c706.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Enemy</title>
+    <desc lang="ar">يرصد الفيلم قصة آدم بيل أو أنطوني سانت كلير (جاك جيلنهيل) من خلال حفنة من المشاهد والأحداث. حيث مدرس جامعي يُدعى آدم بيل (جاك جيلنهيل) بعد يوم طويل يذهب آدم لبيته حيث صديقته ماري (ميلاني لورينت). ينصحه أصدقاءه بمشاهدة فيلم جميل وفي الفيلم يرى رجل يشبهه تماماً. على الجانب الآخر يبدأ الشك يساور امرأة حامل بأن زوجها يخونها، وأم تغمرها السعادة بأن ابنها أنطوني سانت كلير (جاك جيلنهيل) لم يعد ممثلًا من الدرجة الثالثة. Adam Bell is a glum, disheveled history professor, who seems disinterested even in his beautiful girlfriend, Mary. Watching a movie on the recommendation of a colleague, Adam spots his double, a bit-part actor named Anthony Clair, and decides to track him down.(n)</desc>
+    <credits>
+      <director>دينيس فيلنوف</director>
+      <actor>جيك جيلنهال</actor>
+      <actor>جوشوا بيس</actor>
+      <actor>جين موفات</actor>
+      <actor>إيزابيلا روسيليني</actor>
+      <actor>ميلاني لوران</actor>
+      <actor>سارة جادون</actor>
+      <writer>جافير جولون</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9276763981585c4c3e2216f9ffd68902b1775e9b6dd8d10465330dd6a606e5d6.jpg" />
+    <rating system="EG">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Columbus Circle</title>
+    <desc lang="ar">أباجيل كلايتون ابنة واحد من كبار رجال الصناعة في أمريكا، وتعيش وحيدة تمامًا في شقتها الكائنة في منطقة مانهاتن، ولم تغادر الشقة منذ عقدين كاملين منذ عيد ميلادها الثامن عشر، حيث تصير الشقة هى عالمها الوحيد، وبعد سنوات من العزلة الاختيارية التي عاشتها، تصير مجبرة على مواجهة مخاوفها من العالم الخارجي بعد أن تقع جريمة قتل لأحد جيرانها، ويفد محقق إليها لسؤالها عما حدث.(n)</desc>
+    <credits>
+      <director>جورج جالو</director>
+      <actor>سلمى بلير</actor>
+      <actor>بو بريدجز</actor>
+      <actor>كيفين بولاك</actor>
+      <actor>جيوفاني رابيسي</actor>
+      <actor>إيمي سمارت</actor>
+      <writer>جورج جالو</writer>
+      <writer>كيفين بولاك</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a090d8811894f84cae2056a2a07a09ee966ce6563a53dc2a4debd07c8e0de0c4.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">TRON: Legacy</title>
+    <desc lang="ar">تدور أحداث الفيلم داخل نظام الكمبيوتر ENCOM ، حيث يقوم برنامج للألعاب الإلكترونية صممه "فلين كيفن" أثناء اللعبة بتحدي برنامج المراقبة الرئيسي مما يتسبب في فوضى ودمار في أنحاء الشبكة التي تقوم في إطار فانتازي بسحب مصممها إلى الداخل ليتحول إلى شخصية إلكترونية داخل صراع محتوم يودي إلى الموت بينما يحاول ابنه "شون فلين" البحث عن والده ليكتشف أن البرنامج صنع حالة من الفوضى في النظام فيقرر هو الأخر الدخول لإنقاذه. This picture is a science fiction film and is a sequel to the 1982 film “Tron”. The title marks Joseph Kosinski’s feature film directorial debut while “Tron” director Steven Lisberger returns as a producer. The film features the performances of Micheal Sheen, Olivia Wilde and Beau Garrett among others. Jeff Bridges and Bruce Boxleitner retain their previous roles from “Tron”. Sam Flynn is determined to find out the causes behind the puzzling disappearance of his father. He manages to track down a signal from his father that leads him to an abandoned arcade. Therein, Flynn finds his father trapped in a sort of digital world. Marooned in a world populated with unfamiliar vehicles, weapons and backdrops, Sam and his father must find a way out of the bizarre realm. They are aided in their efforts by Quorra (Olivia Wilde), a ruthless warrior.(n)</desc>
+    <credits>
+      <director>جوزيف كوزينيسكي</director>
+      <actor>مايكل شين</actor>
+      <actor>أوليفيا وايلد</actor>
+      <actor>جيف بريدجيز</actor>
+      <actor>جاريت هيدلوند</actor>
+      <actor>جيمس فراين</actor>
+      <actor>بو جاريت</actor>
+      <writer>آدم هورويتز</writer>
+      <writer>إدوارد كيتسيس</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2ea92375cfc83362f21a7e86c108cbe6888bb61d1f19522afcc98afe41e35e4.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">أفلام ونجوم</title>
+    <desc lang="ar">البرنامج دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Automata</title>
+    <desc lang="ar">من خلال أفلام المستقبل البعيد والخيال العلمي، تدور الأحداث حول (جاك فوكان) وهو مندوب تأمينات لشركة (روك) للروبوتات (الأشخاص الآليين)، يقوم بالتحقيق في حالة روبوتات تخالف البروتوكولات الأساسية التي تم برمجتها بها، وتقوم بإصلاح نفسها بنفسها، وما يكتشفه سوف يكون له تأثير خطير على مستقبل البشرية. An insurance agent of a robotics corporation investigates cases of robots violating their protocols against altering themselves. What he discovers will have unexpected consequences on the future of mankind.(n)</desc>
+    <credits>
+      <director>جابي إيبانيز</director>
+      <actor>زاكارياس إم. دي لا ريفا</actor>
+      <actor>أنطونيو بانديراس</actor>
+      <actor>ميلاني جريفيث</actor>
+      <actor>ديلان ماكديرموت</actor>
+      <actor>روبرت فورستر</actor>
+      <actor>بريجيت هوجرت سورينسن</actor>
+      <writer>جابي إيبانيز</writer>
+      <writer>خافيير سانشيز دوناتي</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3b74282c9a199c50ad14c86f4ddf5f5bd376baf59c6de6ef1e9d9f230ccd34f8.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">X-Men: Days of Future Past</title>
+    <desc lang="ar">يضطر الرجال (إكس) إلى السفر عبر الزمن إلى الماضي ليحاولوا تغيير حدثٍ تاريخي مهم وعظيم للغاية، من الممكن أن يؤثر بالسلب على مستقبل الجنس البشري، وأيضًا على مستقبل ذوي الطفرات الجينية المعروفين بالرجال (إكس). The characters from the original X-Men film trilogy join forces with their younger selves from X-Men: First Class in a battle that must change the past; to save their future.(n)</desc>
+    <credits>
+      <director>براين سينجر</director>
+      <actor>جيمس مكافوي</actor>
+      <actor>مايكل فاسبندر</actor>
+      <actor>جنيفر لورانس</actor>
+      <actor>باتريك ستيوارت</actor>
+      <actor>إيان ماكلين</actor>
+      <actor>هيو جاكمان</actor>
+      <writer>براين سينجر</writer>
+      <writer>سايمون كينبيرج</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4112bdbdb88960b1b03b38c80f9667aa1380172ef825bd7c4c3ae0c0bf5ce7e6.jpg" />
+    <rating system="EG">
+      <value>8.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <desc lang="ar">برنامج يومي يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
+    <credits>
+      <director>ألفريد ماسيني</director>
+      <actor>ماري هارت</actor>
+      <actor>مارك ستينيز</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bf3b77e869deb68df9b77779f6f118f6288c5cb5eb468dc6a0b56db4226a892.jpg" />
+    <rating system="EG">
+      <value>6.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">We Bought a Zoo</title>
+    <desc lang="ar">تدور أحداث الفيلم في جنوب كاليفورنيا حيث ينتقل أحد الآباء برفقة عائلته إلى اﻹقامة في أغرب مكان يمكن أن يقطن فيه انسان، وهو حديقة الحيوان وهناك يحاول برفقة موظفي المكان وبعض المغامرين وذو الهوايات ترميم وإعادة فتح حديقة الحيوانات وإعادتها إلى ماكانت عليه سابقا.(n)</desc>
+    <credits>
+      <director>كاميرون كرو</director>
+      <actor>توماس هادن شيرش</actor>
+      <actor>إيلي فانينج</actor>
+      <actor>سكارليت جوهانسون</actor>
+      <actor>مات ديمون</actor>
+      <actor>كولين فورد</actor>
+      <writer>ألين بروش ماكينا</writer>
+      <writer>كاميرون كرو</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻋﺎﺋﻠﻲ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_87b233641e82d657dbe26d92a36d08fb1c49216f0d84c22ac9bf0379ce25fc02.jpg" />
+    <rating system="EG">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Zootopia (Zootropolis)</title>
+    <desc lang="ar">تدور أحداث القصة فى مدينة (زوتوبيا)، حيث يتعرض الثعلب الثرثار إلى كارثة تؤدي إلى اتهامه بجريمه لم يرتكبها، فيقرر الهروب حتى يثبت براءته، يطارده الأرنب الشرطي المشهور بذكائه وإخلاصه، فيتوصلا معًا أن عليهم الاتحاد لمواجهة مؤامرة كبرى موجهة ضدهم. In the animal city of Zootopia, a fast-talking fox who's trying to make it big goes on the run when he's framed for a crime he didn't commit. Zootopia's top cop, a self-righteous rabbit, is hot on his tail, but when both become targets of a conspiracy, they're forced to team up and discover even natural enemies can become best friends.(n)</desc>
+    <credits>
+      <director>بيرون هوارد</director>
+      <director>ريتش مور</director>
+      <actor>جاسون بيتمان</actor>
+      <actor>جينيفير جودوين</actor>
+      <actor>جي كيه سيمونز</actor>
+      <actor>إدريس إلبا</actor>
+      <actor>ألان توديك</actor>
+      <actor>بوني هانت</actor>
+      <writer>جاريد بوش</writer>
+      <writer>بيرون هوارد</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_13f10afd86d06bedee71bef4f5f14268e6be3f3a5bea48f1bd7564dcfda12433.jpg" />
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Ant-Man</title>
+    <desc lang="ar">تدور الأحداث حول دكتور هانك بيم (مايكل دوجلاس) الذي يتم طرده من شركته بعد أن أزاحه تلميذه السابق (دارين كروس)، فيقوم (بيم) باستغلال مهارات سكوت لانج (بول رود) اللص المحترف الذي خرج لتوِّه من السجن، وعبر تدريبات (بيم)، وبواسطة رداء جديد يجعل صاحبه قادرًا على الانكماش في الحجم، ويمنحه قوة خارقة، والتحكم في جيش من النمل، يتحول (لانج) إلى الرجل النملة (Ant-Man). والآن على البطل صغير الحجم أن يستخدم مهاراته الجديدة ليمنع (كروس) المعروف باسم (يلو جاكيت) من التعامل مع التكنولوجيا نفسها، واستخدامها كسلاح لتنفيذ أغراض شريرة. Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats.(n)</desc>
+    <credits>
+      <director>بيتن ريد</director>
+      <actor>بول رود</actor>
+      <actor>مايكل دوجلاس</actor>
+      <actor>إيفانجلين ليلي</actor>
+      <actor>مايكل بينا</actor>
+      <actor>كوري ستول</actor>
+      <actor>مات جيرالد</actor>
+      <writer>آدم مكاي</writer>
+      <writer>جاك كيربي</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6a9d9c0d8967401f3e16a6a6a5d88e76eb10a98c20395d35a16c10bcd44692fc.jpg" />
+    <rating system="EG">
+      <value>7.7</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Shaun Of The Dead</title>
+    <desc lang="ar">تدور أحداث الفيلم في إطار كوميدي ساخر. يعيش شون (سيمون بيج) حياة تعيسة، فلا يوجد لديه أية طموحات فى الحياة، ويعيش برفقة صديقه إد (نيك فروست)؛ الذى يقضى معه معظم وقت فراغه فى الحانة. تتخلى حبيبته (ليز) عنه، وهو ما يدفع شون إلى السعي لاستعادة حبها من جديد، ولكن فى الوقت ذاته، تتعقد الأمور بغتة في مدينة لندن، ويتحول الكثير من سكانها إلى موتى أحياء. لا يصدق شون فى البداية ما يحدث حوله، ويدرك أن عليه خوض أول مغامرة حقيقية فى حياته برفقة صديقه إد وحبيبته ليز.(n)</desc>
+    <credits>
+      <director>إدجار رايت</director>
+      <actor>لوسي ديفيس</actor>
+      <actor>راف سبال</actor>
+      <actor>ديلان موران</actor>
+      <actor>كاتي أشفيلد</actor>
+      <actor>نيك فروست</actor>
+      <actor>سايمون بيج</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <category lang="ar">ﺭﻋﺐ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ff96f34e644f001113e574a6dd7095be4c581f4a7ae1a3c7fb9e2549333b9de6.jpg" />
+    <rating system="EG">
+      <value>5.8</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Super</title>
+    <desc lang="ar">(فرانك داربو) طاهي تعيس، متزوج من الحسناء (سارة) التي تقع تحت سيطرة تاجر المخدرات (جاك)، يحاول (فرانك) استعادتها بأي شكل لكنه يفشل، في أثناء مشاهدته لبرنامج تلفزيوني على قناة دينية، يقرر أن يتحول إلى بطل خارق يدعى (الحزام القرمزي) يحارب الشر والجريمة، ويحاول استعادة (سارة)، فهل ستنجح النوايا الطيبة بمفردها، دون امتلاك قدرات خارقة، في تحقيق الهدف.(n)</desc>
+    <credits>
+      <director>جيمس جن</director>
+      <actor>راين ويلسون</actor>
+      <actor>إلين بيج</actor>
+      <actor>ليف تايلر</actor>
+      <actor>كيفين بيكون</actor>
+      <actor>جريج هنري</actor>
+      <actor>مايكل روكر</actor>
+      <writer>جيمس جن</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_b8d90bff7ec779485d80dede3f814d161378b22c1d2ec3281cfd2ec4ddb05fe2.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">TRON: Legacy</title>
+    <desc lang="ar">تدور أحداث الفيلم داخل نظام الكمبيوتر ENCOM ، حيث يقوم برنامج للألعاب الإلكترونية صممه "فلين كيفن" أثناء اللعبة بتحدي برنامج المراقبة الرئيسي مما يتسبب في فوضى ودمار في أنحاء الشبكة التي تقوم في إطار فانتازي بسحب مصممها إلى الداخل ليتحول إلى شخصية إلكترونية داخل صراع محتوم يودي إلى الموت بينما يحاول ابنه "شون فلين" البحث عن والده ليكتشف أن البرنامج صنع حالة من الفوضى في النظام فيقرر هو الأخر الدخول لإنقاذه. This picture is a science fiction film and is a sequel to the 1982 film “Tron”. The title marks Joseph Kosinski’s feature film directorial debut while “Tron” director Steven Lisberger returns as a producer. The film features the performances of Micheal Sheen, Olivia Wilde and Beau Garrett among others. Jeff Bridges and Bruce Boxleitner retain their previous roles from “Tron”. Sam Flynn is determined to find out the causes behind the puzzling disappearance of his father. He manages to track down a signal from his father that leads him to an abandoned arcade. Therein, Flynn finds his father trapped in a sort of digital world. Marooned in a world populated with unfamiliar vehicles, weapons and backdrops, Sam and his father must find a way out of the bizarre realm. They are aided in their efforts by Quorra (Olivia Wilde), a ruthless warrior.(n)</desc>
+    <credits>
+      <director>جوزيف كوزينيسكي</director>
+      <actor>مايكل شين</actor>
+      <actor>أوليفيا وايلد</actor>
+      <actor>جيف بريدجيز</actor>
+      <actor>جاريت هيدلوند</actor>
+      <actor>جيمس فراين</actor>
+      <actor>بو جاريت</actor>
+      <writer>آدم هورويتز</writer>
+      <writer>إدوارد كيتسيس</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2ea92375cfc83362f21a7e86c108cbe6888bb61d1f19522afcc98afe41e35e4.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">أفلام ونجوم</title>
+    <desc lang="ar">البرنامج دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Predators</title>
+    <desc lang="ar">رويسي جندي المرتزقة يقود جماعة من المحاربين الأشداء الذين يجدون أنفسهم في كوكب غريب، ويكتشفون أنه تم إحضارهم إلى هذا الكوكب كي يشاركوا في عملية صيد هائلة بين المجرات سيلعبون فيها دور الفريسة. This title is a science fiction action film that was directed by Nimrod Antal. The movie stars Adrian Brody and Laurence Fishburne among others and it is the third film in the “Predator” franchise. Royce (Adrian Brody) is a mercenary who regains consciousness to find himself parachuting into an unknown jungle. Once on the ground he links up with others who seem to have arrived there by the same means. Everyone in the group, with the notable exception of a doctor, seem to come from dark backgrounds. There is a drug cartel enforcer, a Sptsnaz soldier, a death row inmate and a Yakuza man to name only a few – not to mention Royce, who is himself a mercenary as mentioned earlier. As the film progresses, the group learn that they are in fact on an alien planet. That’s not the worst part though – they also learn that they are being hunted by an alien race known as the “Predators”.(n)</desc>
+    <credits>
+      <director>نيمرود انتال</director>
+      <actor>أدريان برودي</actor>
+      <actor>لورنس فيشبورن</actor>
+      <actor>داني تريجو</actor>
+      <actor>توفر جريس</actor>
+      <actor>أليس براغا</actor>
+      <actor>والتون جوجينز</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d9cd869ccd09ca60a1467f173c1e42e855f6cbe24809572593d5d2bd131e6382.jpg" />
+    <rating system="EG">
+      <value>6.6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">أفلام ونجوم</title>
+    <desc lang="ar">البرنامج دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Push</title>
+    <desc lang="ar">مجموعة من الاشخاص يمتلكون قدرات خارقة يبحثون عن فتاة لديها قدرة خاصة لكى يحموها من منظمة حكومية تسعى لقتلها.(n)</desc>
+    <credits>
+      <actor>بول ماكجيجان</actor>
+      <actor>داكوتا فانينج</actor>
+      <actor>كريس إيفانز</actor>
+      <actor>ماجي سف</actor>
+      <actor>كليف كورتيس</actor>
+      <actor>مينج-نا</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_16e9016c7e83bbe38300b083ebc21fc3ae1fb60336251d32b271397d1e0256a3.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">Ant-Man</title>
+    <desc lang="ar">تدور الأحداث حول دكتور هانك بيم (مايكل دوجلاس) الذي يتم طرده من شركته بعد أن أزاحه تلميذه السابق (دارين كروس)، فيقوم (بيم) باستغلال مهارات سكوت لانج (بول رود) اللص المحترف الذي خرج لتوِّه من السجن، وعبر تدريبات (بيم)، وبواسطة رداء جديد يجعل صاحبه قادرًا على الانكماش في الحجم، ويمنحه قوة خارقة، والتحكم في جيش من النمل، يتحول (لانج) إلى الرجل النملة (Ant-Man). والآن على البطل صغير الحجم أن يستخدم مهاراته الجديدة ليمنع (كروس) المعروف باسم (يلو جاكيت) من التعامل مع التكنولوجيا نفسها، واستخدامها كسلاح لتنفيذ أغراض شريرة. Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats.(n)</desc>
+    <credits>
+      <director>بيتن ريد</director>
+      <actor>بول رود</actor>
+      <actor>مايكل دوجلاس</actor>
+      <actor>إيفانجلين ليلي</actor>
+      <actor>مايكل بينا</actor>
+      <actor>كوري ستول</actor>
+      <actor>مات جيرالد</actor>
+      <writer>آدم مكاي</writer>
+      <writer>جاك كيربي</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6a9d9c0d8967401f3e16a6a6a5d88e76eb10a98c20395d35a16c10bcd44692fc.jpg" />
+    <rating system="EG">
+      <value>7.7</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="إم بي سي 2">
+    <title lang="ar">أفلام ونجوم</title>
+    <desc lang="ar">البرنامج دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Notorious (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2009</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fc05ed720814aa7e274a6141f8281403cad669c7026270f9f291829eb531b83b.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Before I Go to Sleep (?)</title>
+    <desc lang="en">After suffering a traumatic accident, a woman loses her short-term memory and wakes up every day remembering nothing. But one day, new terrifying truths emerge that make her put everything around her under question.(n)</desc>
+    <credits>
+      <director>Rowan Joffe</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Colin Firth</actor>
+      <actor>Mark Strong</actor>
+      <actor>Anne-Marie Duff</actor>
+      <actor>Jing Lusi</actor>
+      <actor>Charlie Gardner</actor>
+      <writer>S.J. Watson</writer>
+      <writer>Rowan Joffe</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_edd3232020e1541c40687523add4500378895fd233f65b98010f5da39b79ff5a.jpg" />
+    <rating system="EG">
+      <value>5.7</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">The Expendables 3 (?)</title>
+    <desc lang="en">Barney (Stallone), Christmas (Statham) and the rest of the team comes face-to-face with Conrad Stonebanks (Gibson), who years ago co-founded The Expendables with Barney. Stonebanks subsequently became a ruthless arms trader and someone who Barney was forced to kill... or so he thought. Stonebanks, who eluded death once before, now is making it his mission to end The Expendables -- but Barney has other plans.(n)</desc>
+    <credits>
+      <director>Patrick Hughes</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Jason Statham</actor>
+      <actor>Jet Li</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Terry Crews</actor>
+      <actor>Randy Couture</actor>
+      <writer>Dave Callaham</writer>
+      <writer>Katrin Benedikt</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8d5d283d69d6832cee635bc30a3ca292c3cb4ce81f9896a4695f6ac0d3734ee8.jpg" />
+    <rating system="EG">
+      <value>7.4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Hollywood Homicide (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Ron Shelton</director>
+      <actor>Lena Olin</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Eloy Casados</actor>
+      <writer>Ron Shelton</writer>
+      <writer>روبرت سوزا</writer>
+    </credits>
+    <date>2003</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_e1d63593d66264321dbefb42dd51584ccdd493a4e0495c4777c2d9596aa863d1.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">See No Evil, Hear No Evil (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <actor>Kevin Spacey</actor>
+      <actor>Gene Wilder</actor>
+    </credits>
+    <date>1989</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Listen to Your Heart (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Matt Thompson</director>
+      <actor>Alexia Rasmussen</actor>
+      <actor>Kent Moran</actor>
+      <actor>Cybill Shepherd</actor>
+      <actor>Shirley Knight</actor>
+      <actor>Ernie Sabella</actor>
+      <actor>Frank Watson</actor>
+      <writer>Kent Moran</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <category lang="en">Romance</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_558716b51252a3f2999eafddfe53461f08a9ebd298e5a47fb225832211be7df0.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Celebrity Scoop (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2013</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_832992927ef873f35032846d53d42cee7731ca17d6309beba1059eea410edf0e.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Drive (?)</title>
+    <desc lang="en">After a robbery does not go as planned, a price is put on the head of the enigmatic driver, Hollywood film stunt driver, motor-mechanic and sometime getaway man. He is a man who prefers to keep himself to himself but an unexpected attraction to a neighbor gets him involved in a situation that is rolling desperately out of control.(n)</desc>
+    <credits>
+      <director>Nicolas Winding Refn</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Carey Mulligan</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Oscar Isaac</actor>
+      <actor>Christina Hendricks</actor>
+      <writer>Hossein Amini</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d0e7feb489b821d367fead4cab6fdd26372912395af56eae422785e8b66484a6.jpg" />
+    <rating system="EG">
+      <value>6.4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Enemy (?)</title>
+    <desc lang="en">Adam Bell is a glum, disheveled history professor, who seems disinterested even in his beautiful girlfriend, Mary. Watching a movie on the recommendation of a colleague, Adam spots his double, a bit-part actor named Anthony Clair, and decides to track him down.(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Joshua Peace</actor>
+      <actor>Jane Moffat</actor>
+      <actor>isabella Rossellini</actor>
+      <actor>Mélanie Laurent</actor>
+      <actor>Sarah Gadon</actor>
+      <writer>Javier Gullón</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9276763981585c4c3e2216f9ffd68902b1775e9b6dd8d10465330dd6a606e5d6.jpg" />
+    <rating system="EG">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Entertainment Tonight (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Alfred Masini</director>
+      <actor>Mary Hart</actor>
+      <actor>Mark Steines</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bf3b77e869deb68df9b77779f6f118f6288c5cb5eb468dc6a0b56db4226a892.jpg" />
+    <rating system="EG">
+      <value>6.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Push (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <actor>Paul McGuigan</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Chris Evans</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_16e9016c7e83bbe38300b083ebc21fc3ae1fb60336251d32b271397d1e0256a3.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Automata (?)</title>
+    <desc lang="en">An insurance agent of a robotics corporation investigates cases of robots violating their protocols against altering themselves. What he discovers will have unexpected consequences on the future of mankind.(n)</desc>
+    <credits>
+      <director>Gabe Ibáñez</director>
+      <actor>Zacarías M. de la Riva</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Melanie Griffith</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Robert Forster</actor>
+      <actor>Birgitte Hjort Sørensen</actor>
+      <writer>Gabe Ibáñez</writer>
+      <writer>Javier Sánchez Donate</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3b74282c9a199c50ad14c86f4ddf5f5bd376baf59c6de6ef1e9d9f230ccd34f8.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">TRON: Legacy (?)</title>
+    <desc lang="en">This picture is a science fiction film and is a sequel to the 1982 film “Tron”. The title marks Joseph Kosinski’s feature film directorial debut while “Tron” director Steven Lisberger returns as a producer. The film features the performances of Micheal Sheen, Olivia Wilde and Beau Garrett among others. Jeff Bridges and Bruce Boxleitner retain their previous roles from “Tron”. Sam Flynn is determined to find out the causes behind the puzzling disappearance of his father. He manages to track down a signal from his father that leads him to an abandoned arcade. Therein, Flynn finds his father trapped in a sort of digital world. Marooned in a world populated with unfamiliar vehicles, weapons and backdrops, Sam and his father must find a way out of the bizarre realm. They are aided in their efforts by Quorra (Olivia Wilde), a ruthless warrior.(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Michael Sheen</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>James Frain</actor>
+      <actor>Beau Garrett</actor>
+      <writer>Adam Horowitz</writer>
+      <writer>Edward Kitsis</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2ea92375cfc83362f21a7e86c108cbe6888bb61d1f19522afcc98afe41e35e4.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Action Zone (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2010</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_cbb353ab7ae871e807c560d5615936eff7aeb880be2d98530a75ba983a37f6be.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">X-Men: Days of Future Past (?)</title>
+    <desc lang="en">The characters from the original X-Men film trilogy join forces with their younger selves from X-Men: First Class in a battle that must change the past; to save their future.(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>James McAvoy</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Hugh Jackman</actor>
+      <writer>Bryan Singer</writer>
+      <writer>Simon Kinberg</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4112bdbdb88960b1b03b38c80f9667aa1380172ef825bd7c4c3ae0c0bf5ce7e6.jpg" />
+    <rating system="EG">
+      <value>8.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Entertainment Tonight (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Alfred Masini</director>
+      <actor>Mary Hart</actor>
+      <actor>Mark Steines</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bf3b77e869deb68df9b77779f6f118f6288c5cb5eb468dc6a0b56db4226a892.jpg" />
+    <rating system="EG">
+      <value>6.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Predators (?)</title>
+    <desc lang="en">This title is a science fiction action film that was directed by Nimrod Antal. The movie stars Adrian Brody and Laurence Fishburne among others and it is the third film in the “Predator” franchise. Royce (Adrian Brody) is a mercenary who regains consciousness to find himself parachuting into an unknown jungle. Once on the ground he links up with others who seem to have arrived there by the same means. Everyone in the group, with the notable exception of a doctor, seem to come from dark backgrounds. There is a drug cartel enforcer, a Sptsnaz soldier, a death row inmate and a Yakuza man to name only a few – not to mention Royce, who is himself a mercenary as mentioned earlier. As the film progresses, the group learn that they are in fact on an alien planet. That’s not the worst part though – they also learn that they are being hunted by an alien race known as the “Predators”.(n)</desc>
+    <credits>
+      <director>Nimród Antal</director>
+      <actor>Adrien Brody</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Topher Grace</actor>
+      <actor>Alice Braga</actor>
+      <actor>Walton Goggins</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d9cd869ccd09ca60a1467f173c1e42e855f6cbe24809572593d5d2bd131e6382.jpg" />
+    <rating system="EG">
+      <value>6.6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Straight Outta Compton (?)</title>
+    <desc lang="en">The film tells the story of the NWA musical group emergent from the poor streets of Compton in Los Angeles. In 1987, five African-American young men revolutionize the Hip hop music by telling their stories and the stories of their neighborhood.(n)</desc>
+    <credits>
+      <director>F. Gary Gray</director>
+      <actor>Corey Hawkins</actor>
+      <actor>O'Shea Jackson Jr</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Jason Mitchell</actor>
+      <actor>Neil Brown Jr</actor>
+      <actor>Aldis Hodge</actor>
+      <writer>S. Leigh Savidge</writer>
+      <writer>Alan Wenkus</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8f068cbb90803caeaa74efa6eb70a432b88c2e08eeaaa3f27306a5cc4cd0c706.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Enemy (?)</title>
+    <desc lang="en">Adam Bell is a glum, disheveled history professor, who seems disinterested even in his beautiful girlfriend, Mary. Watching a movie on the recommendation of a colleague, Adam spots his double, a bit-part actor named Anthony Clair, and decides to track him down.(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Joshua Peace</actor>
+      <actor>Jane Moffat</actor>
+      <actor>isabella Rossellini</actor>
+      <actor>Mélanie Laurent</actor>
+      <actor>Sarah Gadon</actor>
+      <writer>Javier Gullón</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9276763981585c4c3e2216f9ffd68902b1775e9b6dd8d10465330dd6a606e5d6.jpg" />
+    <rating system="EG">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Columbus Circle (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>George Gallo</director>
+      <actor>Selma Blair</actor>
+      <actor>Beau Bridges</actor>
+      <actor>Kevin Pollak</actor>
+      <actor>Giovanni Ribisi</actor>
+      <actor>Amy Smart</actor>
+      <writer>George Gallo</writer>
+      <writer>Kevin Pollak</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a090d8811894f84cae2056a2a07a09ee966ce6563a53dc2a4debd07c8e0de0c4.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">TRON: Legacy (?)</title>
+    <desc lang="en">This picture is a science fiction film and is a sequel to the 1982 film “Tron”. The title marks Joseph Kosinski’s feature film directorial debut while “Tron” director Steven Lisberger returns as a producer. The film features the performances of Micheal Sheen, Olivia Wilde and Beau Garrett among others. Jeff Bridges and Bruce Boxleitner retain their previous roles from “Tron”. Sam Flynn is determined to find out the causes behind the puzzling disappearance of his father. He manages to track down a signal from his father that leads him to an abandoned arcade. Therein, Flynn finds his father trapped in a sort of digital world. Marooned in a world populated with unfamiliar vehicles, weapons and backdrops, Sam and his father must find a way out of the bizarre realm. They are aided in their efforts by Quorra (Olivia Wilde), a ruthless warrior.(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Michael Sheen</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>James Frain</actor>
+      <actor>Beau Garrett</actor>
+      <writer>Adam Horowitz</writer>
+      <writer>Edward Kitsis</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2ea92375cfc83362f21a7e86c108cbe6888bb61d1f19522afcc98afe41e35e4.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">films &amp; stars (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Automata (?)</title>
+    <desc lang="en">An insurance agent of a robotics corporation investigates cases of robots violating their protocols against altering themselves. What he discovers will have unexpected consequences on the future of mankind.(n)</desc>
+    <credits>
+      <director>Gabe Ibáñez</director>
+      <actor>Zacarías M. de la Riva</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Melanie Griffith</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Robert Forster</actor>
+      <actor>Birgitte Hjort Sørensen</actor>
+      <writer>Gabe Ibáñez</writer>
+      <writer>Javier Sánchez Donate</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3b74282c9a199c50ad14c86f4ddf5f5bd376baf59c6de6ef1e9d9f230ccd34f8.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">X-Men: Days of Future Past (?)</title>
+    <desc lang="en">The characters from the original X-Men film trilogy join forces with their younger selves from X-Men: First Class in a battle that must change the past; to save their future.(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>James McAvoy</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Hugh Jackman</actor>
+      <writer>Bryan Singer</writer>
+      <writer>Simon Kinberg</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4112bdbdb88960b1b03b38c80f9667aa1380172ef825bd7c4c3ae0c0bf5ce7e6.jpg" />
+    <rating system="EG">
+      <value>8.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Entertainment Tonight (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Alfred Masini</director>
+      <actor>Mary Hart</actor>
+      <actor>Mark Steines</actor>
+    </credits>
+    <date>1981</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5bf3b77e869deb68df9b77779f6f118f6288c5cb5eb468dc6a0b56db4226a892.jpg" />
+    <rating system="EG">
+      <value>6.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">We Bought a Zoo (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Cameron Crowe</director>
+      <actor>Thomas Haden Church</actor>
+      <actor>Elle Fanning</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Matt Damon</actor>
+      <actor>Colin Ford</actor>
+      <writer>Aline Brosh McKenna</writer>
+      <writer>Cameron Crowe</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_87b233641e82d657dbe26d92a36d08fb1c49216f0d84c22ac9bf0379ce25fc02.jpg" />
+    <rating system="EG">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Zootopia (Zootropolis) (?)</title>
+    <desc lang="en">In the animal city of Zootopia, a fast-talking fox who's trying to make it big goes on the run when he's framed for a crime he didn't commit. Zootopia's top cop, a self-righteous rabbit, is hot on his tail, but when both become targets of a conspiracy, they're forced to team up and discover even natural enemies can become best friends.(n)</desc>
+    <credits>
+      <director>Byron Howard</director>
+      <director>Rich Moore</director>
+      <actor>Jason Bateman</actor>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Idris Elba</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Bonnie Hunt</actor>
+      <writer>Jared Bush</writer>
+      <writer>Byron Howard</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Animation</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_13f10afd86d06bedee71bef4f5f14268e6be3f3a5bea48f1bd7564dcfda12433.jpg" />
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Ant-Man (?)</title>
+    <desc lang="en">Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats.(n)</desc>
+    <credits>
+      <director>Peyton Reed</director>
+      <actor>Paul Rudd</actor>
+      <actor>Michael Douglas</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Michael Peña</actor>
+      <actor>Corey Stoll</actor>
+      <actor>Matt Gerald</actor>
+      <writer>Adam McKay</writer>
+      <writer>Jack Kirby</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6a9d9c0d8967401f3e16a6a6a5d88e76eb10a98c20395d35a16c10bcd44692fc.jpg" />
+    <rating system="EG">
+      <value>7.7</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Shaun Of The Dead (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Edgar Wright</director>
+      <actor>Lucy Davis</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Dylan Moran</actor>
+      <actor>Kate Ashfield</actor>
+      <actor>Nick Frost</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Horror</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ff96f34e644f001113e574a6dd7095be4c581f4a7ae1a3c7fb9e2549333b9de6.jpg" />
+    <rating system="EG">
+      <value>5.8</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Super (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>James Gunn</director>
+      <actor>Rainn Wilson</actor>
+      <actor>Ellen Page</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Gregg Henry</actor>
+      <actor>Michael Rooker</actor>
+      <writer>James Gunn</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_b8d90bff7ec779485d80dede3f814d161378b22c1d2ec3281cfd2ec4ddb05fe2.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">TRON: Legacy (?)</title>
+    <desc lang="en">This picture is a science fiction film and is a sequel to the 1982 film “Tron”. The title marks Joseph Kosinski’s feature film directorial debut while “Tron” director Steven Lisberger returns as a producer. The film features the performances of Micheal Sheen, Olivia Wilde and Beau Garrett among others. Jeff Bridges and Bruce Boxleitner retain their previous roles from “Tron”. Sam Flynn is determined to find out the causes behind the puzzling disappearance of his father. He manages to track down a signal from his father that leads him to an abandoned arcade. Therein, Flynn finds his father trapped in a sort of digital world. Marooned in a world populated with unfamiliar vehicles, weapons and backdrops, Sam and his father must find a way out of the bizarre realm. They are aided in their efforts by Quorra (Olivia Wilde), a ruthless warrior.(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Michael Sheen</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>James Frain</actor>
+      <actor>Beau Garrett</actor>
+      <writer>Adam Horowitz</writer>
+      <writer>Edward Kitsis</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a2ea92375cfc83362f21a7e86c108cbe6888bb61d1f19522afcc98afe41e35e4.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">films &amp; stars (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Predators (?)</title>
+    <desc lang="en">This title is a science fiction action film that was directed by Nimrod Antal. The movie stars Adrian Brody and Laurence Fishburne among others and it is the third film in the “Predator” franchise. Royce (Adrian Brody) is a mercenary who regains consciousness to find himself parachuting into an unknown jungle. Once on the ground he links up with others who seem to have arrived there by the same means. Everyone in the group, with the notable exception of a doctor, seem to come from dark backgrounds. There is a drug cartel enforcer, a Sptsnaz soldier, a death row inmate and a Yakuza man to name only a few – not to mention Royce, who is himself a mercenary as mentioned earlier. As the film progresses, the group learn that they are in fact on an alien planet. That’s not the worst part though – they also learn that they are being hunted by an alien race known as the “Predators”.(n)</desc>
+    <credits>
+      <director>Nimród Antal</director>
+      <actor>Adrien Brody</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Topher Grace</actor>
+      <actor>Alice Braga</actor>
+      <actor>Walton Goggins</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d9cd869ccd09ca60a1467f173c1e42e855f6cbe24809572593d5d2bd131e6382.jpg" />
+    <rating system="EG">
+      <value>6.6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">films &amp; stars (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Push (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <actor>Paul McGuigan</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Chris Evans</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_16e9016c7e83bbe38300b083ebc21fc3ae1fb60336251d32b271397d1e0256a3.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">Ant-Man (?)</title>
+    <desc lang="en">Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats.(n)</desc>
+    <credits>
+      <director>Peyton Reed</director>
+      <actor>Paul Rudd</actor>
+      <actor>Michael Douglas</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Michael Peña</actor>
+      <actor>Corey Stoll</actor>
+      <actor>Matt Gerald</actor>
+      <writer>Adam McKay</writer>
+      <writer>Jack Kirby</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Action</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6a9d9c0d8967401f3e16a6a6a5d88e76eb10a98c20395d35a16c10bcd44692fc.jpg" />
+    <rating system="EG">
+      <value>7.7</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="MBC 2">
+    <title lang="en">films &amp; stars (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>0</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ba8b98e032d979f6db3a93fc7777a8c51bb44d09ce9115e866a8f42fcb17baee.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Azmi W Ashgaan (?)</title>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <credits>
+      <director>Islam Khairy</director>
+      <actor>Hasan Al-Raddad</actor>
+      <actor>Amy Samir Ghanem</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Nesreen Amin</actor>
+      <actor>Mohammed Tharwat</actor>
+      <actor>Malak Koura</actor>
+      <writer>محمد محمدي</writer>
+      <writer>كريم سامي</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f4bbaa463ee429b4fa73b0c40cb84a583256afc23a3e80d337e4906d2a829a3e.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Ask Doaa (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ffe5dbc2e73788c1e8d4b0c428fbbb247191755b4240e1311ec5b533d8651700.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ألف هنا</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">أكلة بيتي</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">لقمة هنية</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Late Night (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>أحمد جمعة</director>
+    </credits>
+    <date>2011</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1ed5f61a677c1c9d210151c2f11096ce577d57a4a7b0ea8e1c237f072e015870.jpg" />
+    <rating system="EG">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ezay el seha (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2012</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">El Kebir Awy 4 (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Ahmed El Gendy</director>
+      <actor>Ahmed Mekky</actor>
+      <actor>Donia Samir Ghanem</actor>
+      <actor>Sara Salama</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Hesen Abo Hagag</actor>
+      <actor>Ahmed Fathy</actor>
+      <writer>Mostafa Sakr</writer>
+      <writer>Mohamed ezzeldin</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a8116e6442ad1a39379eef5418a7cc77328d5a58368e0f2f51b386e97193710c.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ألف هنا</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ezay el seha (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2012</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">لقمة هنية</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">أكلة بيتي</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Ask Doaa (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ffe5dbc2e73788c1e8d4b0c428fbbb247191755b4240e1311ec5b533d8651700.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Al-bayt Al-kaber (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Mohamed Nukaly</director>
+      <director>Orabi El Khamisi</director>
+      <actor>Lucy</actor>
+      <actor>Sawsan Badr</actor>
+      <actor>Manzer Reyahna</actor>
+      <actor>Leqaa Sweidan</actor>
+      <actor>Tarek Sabri</actor>
+      <actor>Donia El Masry</actor>
+      <writer>Ahmed Sobhi</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_387ccfaba9936f27e9bcafeb76c4dcce5615cb510f32bcaf9196ee53af93ad2b.jpg" />
+    <rating system="EG">
+      <value>4.8</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">شارع النهار (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Azmi W Ashgaan (?)</title>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <credits>
+      <director>Islam Khairy</director>
+      <actor>Hasan Al-Raddad</actor>
+      <actor>Amy Samir Ghanem</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Nesreen Amin</actor>
+      <actor>Mohammed Tharwat</actor>
+      <actor>Malak Koura</actor>
+      <writer>محمد محمدي</writer>
+      <writer>كريم سامي</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f4bbaa463ee429b4fa73b0c40cb84a583256afc23a3e80d337e4906d2a829a3e.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Late Night (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>أحمد جمعة</director>
+    </credits>
+    <date>2011</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1ed5f61a677c1c9d210151c2f11096ce577d57a4a7b0ea8e1c237f072e015870.jpg" />
+    <rating system="EG">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">المهمة</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">فيلم عربي</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Azmi W Ashgaan (?)</title>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <credits>
+      <director>Islam Khairy</director>
+      <actor>Hasan Al-Raddad</actor>
+      <actor>Amy Samir Ghanem</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Nesreen Amin</actor>
+      <actor>Mohammed Tharwat</actor>
+      <actor>Malak Koura</actor>
+      <writer>محمد محمدي</writer>
+      <writer>كريم سامي</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f4bbaa463ee429b4fa73b0c40cb84a583256afc23a3e80d337e4906d2a829a3e.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Ask Doaa (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ffe5dbc2e73788c1e8d4b0c428fbbb247191755b4240e1311ec5b533d8651700.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Late Night (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>أحمد جمعة</director>
+    </credits>
+    <date>2011</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1ed5f61a677c1c9d210151c2f11096ce577d57a4a7b0ea8e1c237f072e015870.jpg" />
+    <rating system="EG">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ezay el seha (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2012</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">El Kebir Awy 4 (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Ahmed El Gendy</director>
+      <actor>Ahmed Mekky</actor>
+      <actor>Donia Samir Ghanem</actor>
+      <actor>Sara Salama</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Hesen Abo Hagag</actor>
+      <actor>Ahmed Fathy</actor>
+      <writer>Mostafa Sakr</writer>
+      <writer>Mohamed ezzeldin</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a8116e6442ad1a39379eef5418a7cc77328d5a58368e0f2f51b386e97193710c.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ezay el seha (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2012</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Ask Doaa (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ffe5dbc2e73788c1e8d4b0c428fbbb247191755b4240e1311ec5b533d8651700.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Al-bayt Al-kaber (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Mohamed Nukaly</director>
+      <director>Orabi El Khamisi</director>
+      <actor>Lucy</actor>
+      <actor>Sawsan Badr</actor>
+      <actor>Manzer Reyahna</actor>
+      <actor>Leqaa Sweidan</actor>
+      <actor>Tarek Sabri</actor>
+      <actor>Donia El Masry</actor>
+      <writer>Ahmed Sobhi</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_387ccfaba9936f27e9bcafeb76c4dcce5615cb510f32bcaf9196ee53af93ad2b.jpg" />
+    <rating system="EG">
+      <value>4.8</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">شارع النهار (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Azmi W Ashgaan (?)</title>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <credits>
+      <director>Islam Khairy</director>
+      <actor>Hasan Al-Raddad</actor>
+      <actor>Amy Samir Ghanem</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Nesreen Amin</actor>
+      <actor>Mohammed Tharwat</actor>
+      <actor>Malak Koura</actor>
+      <writer>محمد محمدي</writer>
+      <writer>كريم سامي</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f4bbaa463ee429b4fa73b0c40cb84a583256afc23a3e80d337e4906d2a829a3e.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Late Night (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>أحمد جمعة</director>
+    </credits>
+    <date>2011</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1ed5f61a677c1c9d210151c2f11096ce577d57a4a7b0ea8e1c237f072e015870.jpg" />
+    <rating system="EG">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Al Farenja (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Hisham Fathy</director>
+      <actor>Hesham Maged</actor>
+      <actor>Ahmad Fahmy</actor>
+      <actor>Chico</actor>
+      <writer>Marwi Kishk</writer>
+    </credits>
+    <date>2015</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_908a47965dcfdf6583e13eb63c4fce05e986c1539f4e9be189b9584175d72758.jpg" />
+    <rating system="EG">
+      <value>7.6</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">عقارب الساعة</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">المهمة</title>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Azmi W Ashgaan (?)</title>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <credits>
+      <director>Islam Khairy</director>
+      <actor>Hasan Al-Raddad</actor>
+      <actor>Amy Samir Ghanem</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Nesreen Amin</actor>
+      <actor>Mohammed Tharwat</actor>
+      <actor>Malak Koura</actor>
+      <writer>محمد محمدي</writer>
+      <writer>كريم سامي</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f4bbaa463ee429b4fa73b0c40cb84a583256afc23a3e80d337e4906d2a829a3e.jpg" />
+    <rating system="EG">
+      <value>6.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Tomorrow Is Better (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <actor>لمياء فهمي عبد الحميد</actor>
+    </credits>
+    <date>2011</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_6dc00e963c46131e991fe16efd24814eda2a7a0e80040d3443b1923357f71189.jpg" />
+    <rating system="EG">
+      <value>5.1</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Ask Doaa (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ffe5dbc2e73788c1e8d4b0c428fbbb247191755b4240e1311ec5b533d8651700.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">Late Night (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>أحمد جمعة</director>
+    </credits>
+    <date>2011</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_1ed5f61a677c1c9d210151c2f11096ce577d57a4a7b0ea8e1c237f072e015870.jpg" />
+    <rating system="EG">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ezay el seha (?)</title>
+    <desc lang="en">(n)</desc>
+    <date>2012</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">El Kebir Awy 4 (?)</title>
+    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Ahmed El Gendy</director>
+      <actor>Ahmed Mekky</actor>
+      <actor>Donia Samir Ghanem</actor>
+      <actor>Sara Salama</actor>
+      <actor>Samir Ghanem</actor>
+      <actor>Hesen Abo Hagag</actor>
+      <actor>Ahmed Fathy</actor>
+      <writer>Mostafa Sakr</writer>
+      <writer>Mohamed ezzeldin</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a8116e6442ad1a39379eef5418a7cc77328d5a58368e0f2f51b386e97193710c.jpg" />
+    <rating system="EG">
+      <value>7.9</value>
+    </rating>
+  </programme>
+  <programme start="20190122000000 +0200" stop="20190122000000 +0200" channel="Al Nahar TV">
+    <title lang="en">ألف هنا</title>
+  </programme>
+</tv>
