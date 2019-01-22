@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "$DEBUG" == false]; then
+if [ [ "$DEBUG" == false] ]; then
    git clone "https://Fazzani:${PAT}@github.com/Fazzani/webgrabplus-siteinipack.git" /siteinipack && \
    cp -rf /siteinipack/siteini.pack/ $1
 fi
