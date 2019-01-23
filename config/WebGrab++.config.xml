@@ -3,12 +3,12 @@
   <filename>/data/guide.xmltv</filename>
   <mode>d</mode>
   <postprocess run="n" grab="y">mdb</postprocess>
-  <proxy>automatic</proxy>
+  <proxy>212.237.52.79:3333</proxy>
   <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,1</skip>
-  <timespan>1</timespan>
+  <timespan>0</timespan>
   <update>i</update>
    <!-- <channel update="i" site="elcinema.ar.com" site_id="1128" xmltv_id="إم بي سي 2">إم بي سي 2</channel> -->
    <channel update="i" site="elcinema.en.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel>
