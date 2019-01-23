@@ -21,7 +21,6 @@ ENV TZ Europe/London
 ENV DEBUG false
 ENV FILE_NAME 2018.12.16_121300
 ENV WEBGRAB_URL https://gist.githubusercontent.com/Fazzani/cce67905b458bae3eb5818adeffd2510/raw/WebGrab++.config.xml
-VOLUME /config /data
 
 RUN \
     echo "**** add mono repository ****" && \
