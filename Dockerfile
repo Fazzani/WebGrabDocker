@@ -34,6 +34,7 @@ RUN \
     libmono-system-web4.0-cil \
     mono-runtime \
     nano \
+    tzdata \
     git \
     wget \
     unzip && \
@@ -61,6 +62,9 @@ COPY root/ /
 RUN [ -d /app/wg++/siteini.pack.update ] && \
     cp -rf /app/wg++/siteini.pack.update /app/wg++/siteini.pack
 RUN cp -rf /app/wg++/bin /config
+
+# Setting IZ
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 COPY updateChannels.sh /defaults
 COPY run.sh /defaults

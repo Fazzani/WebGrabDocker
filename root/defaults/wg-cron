@@ -1,0 +1,2 @@
+2 3 * * * s6-setuidgid abc /bin/bash /defaults/update.sh
+55 19 * * * s6-setuidgid abc /bin/bash /config/bin/SiteIni.Pack.Update.sh

@@ -1,0 +1,21 @@
+#!/usr/bin/with-contenv bash
+
+# copy config
+[[ ! -e /config/WebGrab++.config.xml ]] && \
+	cp /defaults/WebGrab++.config.xml /config/
+[[ ! -e /config/ini/siteini.pack ]] && \
+	cp -R /defaults/ini/siteini.pack /config/
+
+# add cron file for running webgrab+plus
+[[ ! -e /config/wg-cron ]] && \
+	cp /defaults/wg-cron /config/wg-cron
+crontab /config/wg-cron
+
+# permissions
+chown -R abc:abc \
+	/config \
+	/data
+
+chmod +x /defaults/update.sh
+cp -rf /app/wg++/bin /config
+chmod +x /config/bin/SiteIni.Pack.Update.sh

@@ -13,10 +13,10 @@ services:
   - docker
 script: |
   docker login -u=$DOCKER_USER -p=$DOCKER_PASS
-  docker build --no-cache=true -t "synker/webgraboneshot:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshot:latest .
+  docker build --pull=true --no-cache=true --build-arg WGUPDATE_VER=2.1 --build-arg WEBGRAB_VER=2.1.0 -t "synker/webgraboneshot:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshot:latest .
   docker push synker/webgraboneshot
   cd WebGrabFromUrl
-  docker build --no-cache=true -t "synker/webgraboneshoturl:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshoturl:latest .
+  docker build --no-cache=true --pull=true -t "synker/webgraboneshoturl:${TRAVIS_BUILD_NUMBER}" -t synker/webgraboneshoturl:latest .
   docker push synker/webgraboneshoturl
 
 notifications: # set notification options
