@@ -13,7 +13,7 @@ echo "TZ: $TZ"
 DATE=`date '+%Y-%m-%d %H:%M:%S'`
 echo $DATE
 
-if [[ -f "${1}/WebGrab++.log.txt" ]]; then
+if [[ -f "${1}/WebGrab++.log.txt" && "${DEBUG:-false}" == true ]]; then
   cat "${1}/WebGrab++.log.txt"
 fi
 

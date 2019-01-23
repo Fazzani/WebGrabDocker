@@ -3,15 +3,17 @@
   <filename>/data/guide.xmltv</filename>
   <mode>d</mode>
   <postprocess run="n" grab="y">mdb</postprocess>
-  <proxy>212.237.52.79:3333</proxy>
-  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,1</skip>
-  <timespan>0</timespan>
+  <timespan>1</timespan>
   <update>i</update>
    <!-- <channel update="i" site="elcinema.ar.com" site_id="1128" xmltv_id="إم بي سي 2">إم بي سي 2</channel> -->
-   <channel update="i" site="elcinema.en.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel>
+   <!-- <channel update="i" site="elcinema.en.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel> -->
+   <!-- <channel update="i" site="elcinema.en.com" site_id="1171" xmltv_id="Future TV">Future TV</channel> -->
+    <channel update="i" site="elcinema.en.com" site_id="1129" xmltv_id="MBC 4">MBC 4</channel>
+<!-- <channel update="i" site="seevii.com" site_id="65" xmltv_id="Panorama Food">Panorama Food</channel> -->
+
    <!-- <channel update="i" site="elcinema.en.com" site_id="1132" xmltv_id="MBC MAX">MBC MAX</channel> -->
    <!-- <channel update="i" site="elcinema.en.com" site_id="1193" xmltv_id="Al Nahar TV">Al Nahar TV</channel> -->
 </settings>
