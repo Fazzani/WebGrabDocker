@@ -18,7 +18,9 @@ id $(whoami)
 docker build -t synker/webgraboneshot:latest .
 
 # running a test
- docker run -it --rm -v "${PWD}/config:/config" -v "${PWD}:/data" -e "DEBUG=true" synker/webgraboneshot:latest
+docker run -it --rm -v "${PWD}/config:/config" -v "${PWD}:/data" -e "DEBUG=true" synker/webgraboneshot:latest
+
+docker run -it --rm -v "${PWD}/config:/config" -v "${PWD}:/data" -e "PAT=${PAT}" synker/webgraboneshot:latest
 
 # create archive file from result
 tar zcvf guide.tar.gz guide.xml
