@@ -15,7 +15,7 @@ id $(whoami)
 
 # build new image
 
-docker build -t synker/webgraboneshot:latest .
+docker build --build-arg WEBGRAB_VER="3.0.3" -t synker/webgraboneshot:latest .
 
 # running a test
 docker run -it --rm -v "${PWD}/config:/config" -v "${PWD}:/data" -e "DEBUG=true" synker/webgraboneshot:latest
