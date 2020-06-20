@@ -29,13 +29,13 @@ RUN \
       libmono-system-data4.0-cil \
       libmono-system-web4.0-cil \
       mono-runtime \
-      unzip && \
-      echo "**** install webgrabplus ****" && \
+      unzip
+RUN   echo "**** install webgrabplus ****" && \
       WEBGRAB_BRANCH=${WEBGRAB_VER%.*} && \
       mkdir -p \
       /app/wg++ && \
       curl -o /tmp/wg++.tar.gz -L \
-      "http://www.webgrabplus.com/sites/default/files/download/SW/V${WEBGRAB_VER}/WebGrabPlus_V${WEBGRAB_VER}_beta_install.tar.gz" && \
+      "http://www.webgrabplus.com/sites/default/files/download/SW/V${WEBGRAB_VER}/WebGrabPlus_V${WEBGRAB_BRANCH}_install.tar.gz" && \
       tar xzf \
       /tmp/wg++.tar.gz -C \
       /app/wg++ --strip-components=1 && \
